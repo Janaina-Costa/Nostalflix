@@ -1,0 +1,65 @@
+@media screen and (max-width:1434px){
+    header .container{
+        display: flex;
+        flex-direction: column;
+    }
+    .botao{
+        margin-top: 5px;
+        width: 200px;
+        height: 60px;
+    }
+    
+    .descricao{
+        display: none;
+    }
+
+    
+}
+@media screen and (max-width:1152px){
+    header .container{
+        background: linear-gradient(rgba(0, 0, 0, 0.308),rgba(0, 0, 0, 0.253)100%);
+    }
+
+
+    #popup, #show{
+        width: 400px;
+        height: 490px;
+        position: absolute;
+    }
+    .fechar{
+        margin-left: 340px;
+    }
+    #fecharvideo{
+        font-size: 20px;
+        margin: auto;
+        margin-top: 0;
+        margin-left: 340px;
+    }
+    .video{
+        width: 380px;
+        height: 400px;
+        position: fixed;
+    }
+    #informacao,#fichatecnica{
+        width: 350px;
+    }
+    #fichatecnica{
+        margin-top: 25px;
+    }
+}
+
+@media screen and (min-width:1000px){
+    .descricao{
+        width: 50%;
+    }
+   
+
+}
+
+@media screen and (min-width:1920px){
+    .desenho-destaque{
+        z-index: auto;
+        
+    }
+
+}
