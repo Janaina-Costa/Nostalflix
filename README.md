@@ -10,6 +10,6 @@ Tecnologias Utilizadas:
 <img src='https://icongr.am/devicon/javascript-original.svg?size=93&color=currentColor'/>
 <img src='https://icongr.am/devicon/html5-original.svg?size=93&color=currentColor'/>
 
-<img src='img/NOSTALFLIX - Nostalflix.png'>
+<img src='img/NOSTALFLIX - Nostalflix atl.png'>
 
 
